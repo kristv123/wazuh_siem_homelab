@@ -57,6 +57,13 @@ The lab focuses on file-based threat detection, alert enrichment, and validating
 - Experience integrating external threat intelligence into SIEM workflows
 - Improved alert fidelity through enrichment and correlation
 
+## Future Improvements and Uses of Home-lab
+- More advanced attack simulations
+- Additional endpoint telemetry (process, network activity)
+- Additional endpoints
+
+---
+
 ## Simulating attack using Eicar test file
 To validate the detection pipeline, the EICAR test file was placed into a monitored directory (`/tmp/malware`) on the Ubuntu endpoint using curl.
 
@@ -67,11 +74,6 @@ This action triggered:
 - Removal of the file
 
 This confirms correct end-to-end detection and alert enrichment functionality.
-
-## Future Improvements and Uses of Home-lab
-- More advanced attack simulations
-- Additional endpoint telemetry (process, network activity)
-- Additional endpoints
 
 
 
