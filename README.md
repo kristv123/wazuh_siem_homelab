@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Frontpage.png" alt="Wazuh SIEM Homelab" width="800">
+  <img src="images/Frontpage.png" alt="" width="800">
 </p>
 
 ![Wazuh SIEM Homelab](Images/Frontpage.png)
